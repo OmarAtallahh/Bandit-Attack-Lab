@@ -6,7 +6,7 @@ from eth_utils import to_checksum_address
 
 # Configuration
 ANKR_RPC_URL = "https://rpc.ankr.com/eth"
-TARGET_ADDRESS = "0xA81C488659D57F512Bd74f0dB31993C91339777D"  # Replace with your real address
+TARGET_ADDRESS = "0xA81C488659D57F512Bd74f0dB31993C91339777D"  # this is our generated test wallet "lol123"
 TARGET_BALANCE_THRESHOLD = 0.001
 SLEEP_TIME = 0.01
 
